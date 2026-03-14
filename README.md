@@ -1,5 +1,7 @@
 # 📚 Course Manager
 
+![Flower Shop Preview](./assets/screenshots/courses_form.png)
+
 ## 🚀 Live Demo
 🔗 Live Site: https://noorkaram.github.io/CoursesManager-crud-app/
 
